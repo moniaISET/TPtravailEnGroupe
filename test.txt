@@ -1,3 +1,0 @@
-Ligne 1 du Cours Git
-Ligne  2 du Cours Git
-Ligne  3 du Cours Git
