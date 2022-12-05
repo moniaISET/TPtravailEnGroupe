@@ -1,3 +1,3 @@
-## TPtravailEnGroupe
-#  projet collaboratif
+# TPtravailEnGroupe
+##  projet collaboratif
 A faire : ajouter fichier `.gitignore`  
